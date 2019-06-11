@@ -1,0 +1,4 @@
+﻿  Server.cpp
+x:\somethingaboutstudy\ooad\wsa\wsa-client\server.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+  WSA.vcxproj -> X:\SomethingAboutStudy\OOAD\WSA\Debug\WSA-Server.exe
+  WSA.vcxproj -> X:\SomethingAboutStudy\OOAD\WSA\Debug\WSA-Server.pdb (Partial PDB)
